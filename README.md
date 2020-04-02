@@ -1,4 +1,4 @@
-# react-weather-app
+# React-Weather-App
 
 A small client-side application (ReactJS) that provides dashboard for monitoring weather of several cities.
 
