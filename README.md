@@ -26,3 +26,7 @@ You will also see any lint errors in the console.
     - The refresh interval indicates the interval of fetching the latest weather data and update the city weather item.
     - Each city has its refresh interval, so feel free to select a different interval for each city.
 3. To remove a city weather item from the weather dashboard, move the mouse onto the city weather item and click the trash button.
+
+## License
+
+The content of this repository is licensed under a [MIT License](https://github.com/kylerlee/React-Weather-App/blob/master/LICENSE).
